@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+Jason Tayor 	jason@gir.training @awseojmt
     <name> -- <role> -- <twitter>
 
 # THANKS
